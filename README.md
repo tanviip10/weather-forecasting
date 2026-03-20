@@ -113,4 +113,23 @@ SHAP (SHapley Additive exPlanations) is used for:
 - Daily predictions for:
   - Maximum temperature (TMAX)
   - Minimum temperature (TMIN)
-- 5-day rolling forecast saved
+- 5-day rolling forecast saved forecast_output.csv
+
+
+### Key Highlights
+
+- Time-series aware feature engineering
+- Multi-model comparison framework
+- Hybrid forecasting (ML + API)
+- Interpretability using SHAP
+- Real-time prediction capability
+
+---
+
+### Future Work
+
+- LSTM / GRU / Transformer-based models
+- Hyperparameter optimization (Optuna)
+- Deployment using FastAPI or Streamlit
+- Multi-location forecasting
+- Automated retraining pipeline
